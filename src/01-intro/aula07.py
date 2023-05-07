@@ -1,4 +1,4 @@
-""" I/0 Input and Output """
+""" Aula 07 - I/0 Input and Output """
 
 # saída padrão - sys stdout
 print('hello world', 'Maria', 1, True, sep='@', end='!!!\n')
