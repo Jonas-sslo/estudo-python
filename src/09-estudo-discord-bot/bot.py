@@ -3,7 +3,6 @@ from decouple import config
 from discord.ext import commands
 from discord import app_commands
 import discord
-
 MY_GUILD = discord.Object(id = 1111398730822844478)
 
 intents = discord.Intents.default()
